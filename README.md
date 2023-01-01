@@ -1,8 +1,7 @@
 
 
 
-# 💫 About Me:
--	I'm currently worrking on  @Arsend <br>
+# 💫 About me
 -	I'm currently learning React<br>
 -	Ask me about **JavaScript, HTML, CSS, Reactjs, Nodejs, ExpressJS, Mongodb, RegExp, Axios, Http Request, Puppeteer, Selenium Web Driver and jQuery**<br>
 - How to reach me: Whatsapp Number **+201010018464**

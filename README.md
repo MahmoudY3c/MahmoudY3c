@@ -2,7 +2,7 @@
 
 
 # 💫 About me
-- Ask me about **JavaScript, HTML, CSS, Reactjs, Nodejs, ExpressJS, Mongodb, RegExp, Axios, Http Request, Puppeteer, Selenium Web Driver and jQuery**<br>
+- Ask me about **JavaScript, HTML, CSS, Reactjs, Nodejs, ExpressJS, Mongodb, RegExp, Http Request, Puppeteer, Selenium Web Driver and jQuery**<br>
 - How to reach me: via Whatsapp **+201010018464**
 
 
